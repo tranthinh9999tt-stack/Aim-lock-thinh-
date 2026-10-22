@@ -1,6 +1,5 @@
 name: Build Aimlock APK
 
-on:
 workflow_dispatch:
 push:
 branches:
